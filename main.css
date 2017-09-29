@@ -1,0 +1,18 @@
+body {
+    height: 3000px;
+}
+
+
+.one {
+   width: 200px;
+    height: 500px;
+    background-color: #434347;
+    position: absolute;
+}
+
+#rotate {
+    right: 15px;
+    top: 15px;
+    position: fixed;
+}
+
